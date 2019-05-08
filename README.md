@@ -1,11 +1,12 @@
 # Search Music List - Architecture Components Demo
 ## Tools used
-- RxAndroid
 - Kotlin
+- RxAndroid
 - Architecture Components
   - ViewModel
   - Live Data
   - Navigation Component
+  - Room
 - Dagger2
 - Mockito
 - Picasso
