@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/mobile_navigation.xml"
+            app:startDestination="@id/homeFragment">
+    <fragment android:id="@+id/homeFragment"
+              android:name="net.mvvm.testApp.screen.home.HomeFragment"
+              android:label="@string/screen_title_search_artist"
+              tools:layout="@layout/home_fragment"/>
+</navigation>
