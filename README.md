@@ -1,2 +1,2 @@
-# MVVMLiveData-SearchMusicList-Demo
-# Tools used
+# Search Music List - Architecture Components Demo
+## Tools used
