@@ -10,8 +10,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4095a421-c67a-45aa-8d3b-537447171176" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/net/abm/testApp/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/net/abm/searchArtist/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/AppConstants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/AppConstants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/base/MainApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/base/MainApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/api/source/service/AlbumTestService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/api/source/service/AlbumTestService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/api/source/testDataSource/AlbumDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/api/source/testDataSource/AlbumDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/api/source/testDataSource/AlbumDataSourceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/api/source/testDataSource/AlbumDataSourceImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/State.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/State.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/album/Album.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/album/Album.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/album/AlbumReult.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/album/AlbumReult.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/album/Albummatches.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/album/Albummatches.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/album/Attr.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/album/Attr.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/album/Image.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/album/Image.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/album/OpensearchQuery.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/album/OpensearchQuery.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/model/album/Results.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/model/album/Results.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/repository/test/AlbumRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/repository/test/AlbumRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/repository/test/AlbumRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/repository/test/AlbumRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/room/AppDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/room/AppDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/room/albumDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/room/albumDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/utils/DataConverter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/utils/DataConverter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/data/utils/RequestInterceptor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/data/utils/RequestInterceptor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/ActivityModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/ActivityModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/AndroidModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/AndroidModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/MainActivityFragmentModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/MainActivityFragmentModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/NetworkModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/NetworkModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/PersistenceModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/PersistenceModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/RxModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/RxModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/ViewModelKey.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/ViewModelKey.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/di/ViewModelModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/di/ViewModelModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/extensions/LifeCycleExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/extensions/LifeCycleExtensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/factory/AppViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/factory/AppViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/screen/details/DetailsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/screen/details/DetailsActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/screen/home/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/screen/home/HomeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/screen/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/screen/home/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/screen/home/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/screen/home/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/screen/home/view/MainAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/screen/home/view/MainAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/AbsentLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/AbsentLiveData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/ApiResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/ApiResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/EndlessRecyclerViewScrollListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/EndlessRecyclerViewScrollListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/LiveDataCallAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/LiveDataCallAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/LiveDataCallAdapterFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/LiveDataCallAdapterFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/TestClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/TestClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/Utils.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/net/abm/testApp/ExampleMockitoJavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/net/abm/searchArtist/ExampleMockitoJavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/net/abm/testApp/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/net/abm/searchArtist/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/net/abm/testApp/ExampleUnitTest2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/net/abm/searchArtist/ExampleUnitTest2.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -122,21 +171,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_adapter_view.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+            <state relative-caret-position="240">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -157,7 +196,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml">
           <provider editor-type-id="nav-designer" />
           <provider selected="true" editor-type-id="text-editor">
@@ -171,11 +210,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>home_fra</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,6 +248,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/home_fragment_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -246,7 +296,7 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="net" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="abm" type="462c0819:PsiDirectoryNode" />
-              <item name="testApp" type="462c0819:PsiDirectoryNode" />
+              <item name="searchArtist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MVVMLiveData-SearchMusicList-Demo" type="1abcf292:AndroidViewProjectNode" />
@@ -254,7 +304,7 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="net" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="abm" type="462c0819:PsiDirectoryNode" />
-              <item name="testApp" type="462c0819:PsiDirectoryNode" />
+              <item name="searchArtist" type="462c0819:PsiDirectoryNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -390,6 +440,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="985" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -427,14 +478,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/abm/testApp/utils/ApiResponse.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/utils/ApiResponse.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/abm/testApp/factory/AppViewModelFactory.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/abm/searchArtist/factory/AppViewModelFactory.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
@@ -479,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -513,6 +557,16 @@
           <folding>
             <element signature="e#455#475#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>

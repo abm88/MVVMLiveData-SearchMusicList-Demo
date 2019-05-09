@@ -3,6 +3,6 @@
             xmlns:app="http://schemas.android.com/apk/res-auto"
             xmlns:tools="http://schemas.android.com/tools" android:id="@+id/mobile_navigation.xml"
             app:startDestination="@id/homeFragment">
-    <fragment android:id="@+id/homeFragment" android:name="net.abm.testApp.screen.home.HomeFragment"
+    <fragment android:id="@+id/homeFragment" android:name="net.abm.searchArtist.screen.home.HomeFragment"
               android:label="@string/home_title" tools:layout="@layout/home_fragment"/>
 </navigation>
