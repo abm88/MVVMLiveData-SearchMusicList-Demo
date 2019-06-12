@@ -1,7 +1,7 @@
 # Search Music List - Architecture Components Demo
 ## Tools used
 - Kotlin
-- RxAndroid
+- RxJava
 - Architecture Components
   - ViewModel
   - Live Data
